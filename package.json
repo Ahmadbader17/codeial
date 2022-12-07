@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Ahmadbader17/codeial/issues"
   },
-  "homepage": "https://github.com/Ahmadbader17/codeial#readme"
+  "homepage": "https://github.com/Ahmadbader17/codeial#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
 }
